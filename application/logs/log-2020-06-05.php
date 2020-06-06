@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-06-05 11:31:41 --> 404 Page Not Found: Main_page/test
+ERROR - 2020-06-05 11:31:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 11:44:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 11:48:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 11:50:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 11:53:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 12:20:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 12:21:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 12:21:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 12:26:04 --> 404 Page Not Found: Phpmyadmi/index
+ERROR - 2020-06-05 12:26:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 12:27:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 12:33:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 12:33:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 12:34:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 12:38:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 12:38:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 12:56:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 12:56:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 13:03:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 13:04:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 13:30:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 13:32:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 13:35:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 13:37:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 13:38:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 13:38:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 16:33:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 21:10:42 --> 404 Page Not Found: HNAP1/index
+ERROR - 2020-06-05 21:17:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 21:17:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 23:40:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2020-06-05 23:48:28 --> 404 Page Not Found: Faviconico/index
